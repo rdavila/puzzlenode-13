@@ -5,6 +5,6 @@ Here is my solution to the PuzzleNode #13: http://puzzlenode.com/puzzles/22. It 
 
 To run the validator, execute the following command from your terminal:
 
-  $ ruby chess.rb
+    $ ruby chess.rb
 
 It will create a file named complex_results.txt in the root of the project.
